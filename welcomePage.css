@@ -1,0 +1,20 @@
+body{
+text-align: center;
+}
+
+#enter{
+    width: 500;
+}
+
+#welcome{
+    color: darkcyan;
+    text-align: center;
+}
+
+#ownerButton{
+    width: 250;
+}
+
+#bookingButton{
+    width: 250;
+}
